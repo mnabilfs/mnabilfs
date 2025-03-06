@@ -1,6 +1,8 @@
-<h1>Hi 👋, I'm Vorenzy</h1>
-<p>A passionate frontend developer from Indonesia</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1>Hello World!, I'm Vorenzy👋</h1>
+<p>🌱 I'm currently learning web development</p>
+<p>👨‍🎓 Studying media informatic at Muhammadiyah Malang University</p>
+<p>👨‍💻 Studying web developer since 2022</p>
+<h2>💻 Tech Stack:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -17,10 +19,9 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/Muhammad Nabil Farras Sulthan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/ryuuzy.xdn" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mnabilfs&show_icons=true&locale=en" alt="mnabilfs" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mnabilfs&show_icons=true&locale=en" alt="mnabilfs" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnabilfs&" alt="mnabilfs" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnabilfs&show_icons=true&locale=en&layout=compact" alt="mnabilfs" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnabilfs" alt="mnabilfs" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnabilfs/mnabilfs/output/github-snake-dark.svg" />
