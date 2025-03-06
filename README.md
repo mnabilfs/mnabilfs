@@ -1,7 +1,7 @@
 <h1>Hello World!, I'm Vorenzy👋</h1>
-<p>🌱 I'm currently learning web development</p>
-<p>👨‍🎓 Studying media informatic at Muhammadiyah Malang University</p>
-<p>👨‍💻 Studying web developer since 2022</p>
+<p>🌱 I'm currently learning Web Development.</p>
+<p>👨‍🎓 Studying Media Informatics at Muhammadiyah Malang University.</p>
+<p>👨‍💻 Studying Web Development since 2022.</p>
 <h2>💻 Tech Stack:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
